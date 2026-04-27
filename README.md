@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Danylo
+## Danylo Haskov
 
 Fullstack Developer with a focus on scalable and maintainable web applications.
 
